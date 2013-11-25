@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Category1 | Cats are awesome]]></title>
+  <link href="http://yoursite.com/blog/categories/category1/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-11-25T13:49:20+03:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Anthony Scatchell]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Cat Post]]></title>
+    <link href="http://yoursite.com/blog/2013/11/25/first-cat-post/"/>
+    <updated>2013-11-25T13:29:38+03:00</updated>
+    <id>http://yoursite.com/blog/2013/11/25/first-cat-post</id>
+    <content type="html"><![CDATA[<h1>Cats are awesome</h1>
+
+<h1>Another H1</h1>
+
+<h2>Header 2</h2>
+
+<h3>HEader 3</h3>
+
+<p>Normal content</p>
+
+<p>paragraph 2</p>
+
+<p>par3</p>
+
+<!--more-->
+
+
+<p><img class="right <a" src="href="http://www.funnyforrest.com/wp-content/uploads/2013/08/funny-lol-cat-quotes-199.jpg">http://www.funnyforrest.com/wp-content/uploads/2013/08/funny-lol-cat-quotes-199.jpg</a>" width="200" height="300"></p>
+]]></content>
+  </entry>
+  
+</feed>
